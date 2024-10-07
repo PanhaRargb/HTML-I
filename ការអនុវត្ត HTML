@@ -1,0 +1,65 @@
+1. បង្កើតឯកសារ HTML មូលដ្ឋាន
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph of text on my web page.</p>
+    <a href="https://www.example.com">Visit Example</a>
+</body>
+</html>
+-----------------------------------------------------------------------------------------
+2. បន្ថែមរូបភាព
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page with Image</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph of text on my web page.</p>
+    <img src="image.jpg" alt="A beautiful scenery">
+    <a href="https://www.example.com">Visit Example</a>
+</body>
+</html>
+-----------------------------------------------------------------------------------------
+3. បន្ថែមតារាង
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page with Table</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph of text on my web page.</p>
+    <table border="1">
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+        </tr>
+    </table>
+    <a href="https://www.example.com">Visit Example</a>
+</body>
+</html>
+-----------------------------------------------------------------------------------------
+4. បន្ថែមវិឌីអូរ
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page with Video</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a paragraph of text on my web page.</p>
+    <video controls>
+        <source src="video.mp4" type="video/mp4">
+    </video>
+    <a href="https://www.example.com">Visit Example</a>
+</body>
+</html>
