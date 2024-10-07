@@ -1,0 +1,12 @@
+- រូបភាព
+<img src="image.jpg" alt="Description of image">
+-----------------------------------------------------------------------------------------
+- សម្លេង
+<audio controls>
+    <source src="audio.mp3" type="audio/mpeg">
+</audio>
+-----------------------------------------------------------------------------------------
+- វិឌីអូរ
+<video controls>
+    <source src="video.mp4" type="video/mp4">
+</video>
